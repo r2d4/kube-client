@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package authenticator contains implementations for pkg/auth/authenticator interfaces
-package authenticator // import "k8s.io/apiserver/plugin/pkg/authenticator"
+package authenticator // import "github.com/r2d4/kube-client/apiserver/plugin/pkg/authenticator"

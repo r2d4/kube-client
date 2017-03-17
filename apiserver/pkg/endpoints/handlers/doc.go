@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package handlers contains HTTP handlers to implement the apiserver APIs.
-package handlers // import "k8s.io/apiserver/pkg/endpoints/handlers"
+package handlers // import "github.com/r2d4/kube-client/apiserver/pkg/endpoints/handlers"

@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package password contains authenticator.Password implementations
-package password // import "k8s.io/apiserver/plugin/pkg/authenticator/password"
+package password // import "github.com/r2d4/kube-client/apiserver/plugin/pkg/authenticator/password"

@@ -20,4 +20,4 @@ limitations under the License.
 // +k8s:defaulter-gen=TypeMeta
 
 // +groupName=example.apiserver.k8s.io
-package v1 // import "k8s.io/apiserver/pkg/apis/example/v1"
+package v1 // import "github.com/r2d4/kube-client/apiserver/pkg/apis/example/v1"

@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package record has all client logic for recording and reporting events.
-package record // import "k8s.io/client-go/tools/record"
+package record // import "github.com/r2d4/kube-client/client-go/tools/record"

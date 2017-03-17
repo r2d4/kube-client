@@ -16,4 +16,4 @@ limitations under the License.
 
 // Package rest has generic implementations of resources used for
 // REST responses
-package rest // import "k8s.io/apiserver/pkg/registry/generic/rest"
+package rest // import "github.com/r2d4/kube-client/apiserver/pkg/registry/generic/rest"

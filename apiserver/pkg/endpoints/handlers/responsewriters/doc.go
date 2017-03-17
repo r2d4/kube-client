@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package responsewriters containers helpers to write responses in HTTP handlers.
-package responsewriters // import "k8s.io/apiserver/pkg/endpoints/handlers/responsewriters"
+package responsewriters // import "github.com/r2d4/kube-client/apiserver/pkg/endpoints/handlers/responsewriters"

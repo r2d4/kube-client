@@ -16,4 +16,4 @@ limitations under the License.
 
 // Package unstructured provides conversion from runtime objects
 // to map[string]interface{} representation.
-package unstructured // import "k8s.io/apimachinery/pkg/conversion/unstructured"
+package unstructured // import "github.com/r2d4/kube-client/apimachinery/pkg/conversion/unstructured"

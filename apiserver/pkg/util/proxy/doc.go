@@ -15,4 +15,4 @@ limitations under the License.
 */
 
 // Package proxy provides transport and upgrade support for proxies
-package proxy // import "k8s.io/apiserver/pkg/util/proxy"
+package proxy // import "github.com/r2d4/kube-client/apiserver/pkg/util/proxy"

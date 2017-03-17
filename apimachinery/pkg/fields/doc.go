@@ -16,4 +16,4 @@ limitations under the License.
 
 // Package fields implements a simple field system, parsing and matching
 // selectors with sets of fields.
-package fields // import "k8s.io/apimachinery/pkg/fields"
+package fields // import "github.com/r2d4/kube-client/apimachinery/pkg/fields"
